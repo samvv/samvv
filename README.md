@@ -1,4 +1,4 @@
-Welcome to my place on GitHub!
+## Welcome to my place on GitHub!
 
 I'm a software developer with a particular interest in programming language design, compilers and formal systems.
 
